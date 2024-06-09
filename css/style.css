@@ -83,3 +83,6 @@ footer .navbar-nav .nav-item .nav-link:hover{
       color:#FFC113;
 
       text-decoration: none; }
+#contact{
+	width: 100%;min-height: 600px;background-image:url("../images/nền.jpeg");background-repeat: no-repeat;background-size: cover;background-position: center center
+}
